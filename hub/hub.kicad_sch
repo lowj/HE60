@@ -2601,6 +2601,24 @@
 						)
 					)
 				)
+				(pin input line
+					(at 0 -17.78 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin passive line
 					(at 17.78 15.24 180)
 					(length 2.54)
@@ -4792,6 +4810,9 @@
 		(pin "5"
 			(uuid "7fc35187-1ca2-4574-a5cf-58a7568bb86a")
 		)
+		(pin "25"
+			(uuid "893768cf-0d55-41b8-ad5b-121995398032")
+		)
 		(instances
 			(project ""
 				(path "/625d6237-d56a-462f-8f6f-6bbaf75e0a8d"
@@ -5299,6 +5320,72 @@
 			(project "hub"
 				(path "/625d6237-d56a-462f-8f6f-6bbaf75e0a8d"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 231.14 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e318bc7-99f2-4e5b-9530-b258f7e95f05")
+		(property "Reference" "#PWR019"
+			(at 231.14 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bc3958a6-bd36-4057-b0e6-52bf128cefab")
+		)
+		(instances
+			(project ""
+				(path "/625d6237-d56a-462f-8f6f-6bbaf75e0a8d"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
