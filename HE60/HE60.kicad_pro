@@ -63,7 +63,24 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_to_hole|270424940|233075000|24d58e8f-7c07-4d0a-9e59-d7f9f462518a|ed61e9fd-1dcc-41f8-abfc-0b95a453a5d2",
+          ""
+        ],
+        [
+          "hole_to_hole|388852440|214025000|79234243-6fc5-47c9-af76-9fc0d13b4c7d|cd773899-8f5a-4376-8de0-48d81b38ff8c",
+          ""
+        ],
+        [
+          "hole_to_hole|395996190|156875000|6513c1d7-4a62-4063-8cd4-73c40952480f|9e33db65-f42c-4466-8dc2-f7658c335723",
+          ""
+        ],
+        [
+          "hole_to_hole|406156190|156875000|afc38915-2842-4eb8-b956-32ac7178e3f7|d63bf410-7350-444d-8330-1839fc620942",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -105,9 +122,9 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -512,7 +529,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",

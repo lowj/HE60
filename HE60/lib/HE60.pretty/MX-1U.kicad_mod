@@ -185,4 +185,26 @@
 		(uuid "c02f17a7-4261-4454-8957-a9a183f2f9cf")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
+		(offset
+			(xyz -7.35 -7.35 5.95)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/3d_mondels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+		(offset
+			(xyz -9 9 10.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
