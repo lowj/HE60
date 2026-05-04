@@ -153,3 +153,6 @@ dkms.conf
 [Rr]elease/
 [Dd]ebug/
 *.launch
+
+## Mac
+*.DS_Store

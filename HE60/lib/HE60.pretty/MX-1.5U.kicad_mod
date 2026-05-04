@@ -185,4 +185,15 @@
 		(uuid "df64d674-29fa-4d3c-9f6b-4f074e43e2a6")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
+		(offset
+			(xyz -7.35 -7.35 5.95)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
