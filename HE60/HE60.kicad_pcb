@@ -1968,7 +1968,7 @@
 		(property "Reference" "MX67"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
-			(uuid "1d4373a0-2e0b-468e-aa12-c9c4b23b9363")
+			(uuid "a292b72c-9963-4f88-a8b9-9bb9d6486ab2")
 			(effects
 				(font
 					(size 1 1)
@@ -1979,7 +1979,7 @@
 		(property "Value" "7U"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "90936900-b461-4be4-9ed9-7a7546a71f7c")
+			(uuid "299c573b-daa5-4cf8-878c-4744af2715cc")
 			(effects
 				(font
 					(size 1 1)
@@ -1991,7 +1991,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "644145bd-713f-4f3e-8dd9-b90b16728f8c")
+			(uuid "5ff27b37-0607-4613-b28d-52d9983f797f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,7 +2003,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "856af806-ec9d-4245-8fb1-98e888d105e5")
+			(uuid "d081aa0e-3291-49d5-94af-8d43afb83c53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2024,7 +2024,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0cef0faa-fa16-45d8-9a07-855e1f4faec8")
+			(uuid "9906f389-2851-4dea-8fcf-f107a0ad38fe")
 		)
 		(fp_line
 			(start -66.675 9.525)
@@ -2034,7 +2034,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c5de1dc2-e115-40ff-ad5b-8537176416a1")
+			(uuid "90e58172-e332-48b3-bfdd-5bbfbaea5434")
 		)
 		(fp_line
 			(start -66.675 9.525)
@@ -2044,7 +2044,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "bd12f4f1-0ff3-4cfa-a15e-20543a86c300")
+			(uuid "59a5ebfe-fffd-4b8e-a7c7-9fe2e074f263")
 		)
 		(fp_line
 			(start -7 -7)
@@ -2054,7 +2054,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cc5773b7-78c5-4875-9e22-76b5fa7cb167")
+			(uuid "84a4d00a-4c04-4ce3-a9d6-0dbe5a503279")
 		)
 		(fp_line
 			(start -7 5)
@@ -2064,7 +2064,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "31ed4ef1-8a2e-44c5-adc6-3d23085cf708")
+			(uuid "71650e47-7eb8-4ca9-9cd5-f115e8aee13b")
 		)
 		(fp_line
 			(start -7 7)
@@ -2074,7 +2074,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6c592943-714c-41a3-86fb-b79382f637a0")
+			(uuid "e0045d91-425c-4e71-a5f4-065286305696")
 		)
 		(fp_line
 			(start -5 -7)
@@ -2084,7 +2084,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8eefadf0-7f1d-483c-84a0-f37b7b8dbed2")
+			(uuid "f22a1222-76bd-43a1-bd8a-dee851d85227")
 		)
 		(fp_line
 			(start 5 -7)
@@ -2094,7 +2094,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3df877a4-953d-4c84-82a0-2e2afd234c26")
+			(uuid "09657735-ced9-42a6-8583-354eb81b3cd9")
 		)
 		(fp_line
 			(start 5 7)
@@ -2104,7 +2104,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dee17a47-1e33-470d-b6c1-d81841ab89d7")
+			(uuid "a948d1a9-3419-4ae2-ab5f-1c960fbdec71")
 		)
 		(fp_line
 			(start 7 -7)
@@ -2114,7 +2114,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7c7619f3-9925-4349-b5c4-946af6b09a7a")
+			(uuid "826c92f8-3251-45f7-90e1-d0f5c9a97d00")
 		)
 		(fp_line
 			(start 7 7)
@@ -2124,7 +2124,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f2734edc-1263-4b37-8c71-0fd7098ff196")
+			(uuid "1875a014-6185-455e-883a-0d5abc9a505a")
 		)
 		(fp_line
 			(start 66.675 -9.525)
@@ -2134,49 +2134,49 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ea7d8182-fec7-4f2f-9301-8eb9201c0f29")
+			(uuid "84ff41ba-17f1-46e9-9c51-9f2ce1675dd6")
 		)
 		(pad "" np_thru_hole circle
 			(at -57.15 -8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "585c1857-6f64-44da-9910-4f77604aa7c8")
+			(uuid "641c1c15-dbd9-420b-959c-346e000ae184")
 		)
 		(pad "" np_thru_hole circle
 			(at -57.15 6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
-			(uuid "314ee42e-a6ad-4d5c-89ab-279ca768ada7")
+			(uuid "816ed921-59b3-44e4-9d05-22afda84eada")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d2a9eb33-c596-47e5-94ae-cf1d149a98cb")
+			(uuid "e7fa0d06-c602-40c6-adb5-0933b33f0562")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f848d7d6-2f8e-4a96-a6fc-90e0540f93ce")
+			(uuid "9403ebda-ea17-47bd-88a4-131778a14e23")
 		)
 		(pad "" np_thru_hole circle
 			(at 57.15 -8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f9f6bbeb-f119-418c-886f-db0629ec8fc2")
+			(uuid "fcf1f156-e5a1-49f8-ab53-71be68e7aee5")
 		)
 		(pad "" np_thru_hole circle
 			(at 57.15 6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
-			(uuid "422a6228-0553-4083-91c1-41577a442e62")
+			(uuid "516cf719-5e7b-4ffa-ab92-e2644f0e0459")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -2188,6 +2188,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k7u.step"
+			(offset
+				(xyz -455.7 -52.35 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2572,7 +2583,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cf17269c-8406-45f8-81f5-199c9f53d618")
+			(uuid "9ba04cac-1707-4f0f-82b4-0109ce697cbd")
 		)
 		(fp_line
 			(start 7 7)
@@ -2582,7 +2593,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0e00a5f4-8d09-4eb3-a674-f790db833a84")
+			(uuid "6fed85c0-786e-46be-a486-9bf35b59d54b")
 		)
 		(fp_line
 			(start 7 -7)
@@ -2592,7 +2603,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "fbe1b281-b70f-463b-a4d7-e208fdec8404")
+			(uuid "b03edc66-9349-468f-a686-b379cda47e54")
 		)
 		(fp_line
 			(start 5 7)
@@ -2602,7 +2613,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0958ed6f-2681-436d-8910-ef5c0a9da3af")
+			(uuid "63d8f510-dc09-4553-8bea-6fdfb2cd6d40")
 		)
 		(fp_line
 			(start 5 -7)
@@ -2612,7 +2623,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "60b28a4d-9436-4d5e-958d-b4820f71bb80")
+			(uuid "2cddd018-a51d-4aa2-a21d-7581bbd8ba31")
 		)
 		(fp_line
 			(start -5 -7)
@@ -2622,7 +2633,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8e2edf05-05f0-454f-a5af-e65ca706b319")
+			(uuid "98a74b2d-13bd-4058-b823-f1c830ffa98b")
 		)
 		(fp_line
 			(start -7 7)
@@ -2632,7 +2643,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "da9d7266-1984-448c-935d-1aa7732d7af7")
+			(uuid "eb856c00-a662-4474-be56-c640635cfb5a")
 		)
 		(fp_line
 			(start -7 5)
@@ -2642,7 +2653,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a85d43dc-97f4-4b46-b750-900105006fd8")
+			(uuid "507cc936-e792-470a-a0f1-005438fc1b09")
 		)
 		(fp_line
 			(start -7 -7)
@@ -2652,7 +2663,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3b5bf516-a3a8-4f62-abca-3fdc45423fe5")
+			(uuid "5d6c09a6-8698-4d7e-9cb7-d77e4f839c5b")
 		)
 		(fp_line
 			(start -21.43125 9.525)
@@ -2662,7 +2673,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ec453c74-b42f-46b1-94ab-4d2f97e75825")
+			(uuid "132e9820-6a7a-4a07-b841-834fdefb6d22")
 		)
 		(fp_line
 			(start -21.43125 9.525)
@@ -2672,7 +2683,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f29adf37-c1b3-4db9-9d73-141511c6e7b4")
+			(uuid "00c8263a-9095-44c5-8d94-9eb807722136")
 		)
 		(fp_line
 			(start -21.43125 -9.525)
@@ -2682,49 +2693,49 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d2fca782-ac15-4afb-b424-f0d74e3fb416")
+			(uuid "4f4d2fcb-b723-4005-a570-157ce273654c")
 		)
 		(pad "" np_thru_hole circle
 			(at -11.938 -6.985 180)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9ab3904c-4f54-4796-9c4b-4e3127508970")
+			(uuid "d42d100a-972d-4a44-be1d-112c55c54378")
 		)
 		(pad "" np_thru_hole circle
 			(at -11.938 8.255 180)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b04f4639-d605-4387-b6f8-08f94256afbd")
+			(uuid "eb468385-42b8-43a9-8194-47dc13d92198")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 228.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "85d13009-b614-444c-ac3d-4f4ba2567efd")
+			(uuid "60311852-0cf8-4c6b-ac64-3d32b357efed")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 228.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "67be829f-fbc6-4f54-97c9-da66530bda5f")
+			(uuid "0cf55ca9-b349-4e00-a11b-54810d27463f")
 		)
 		(pad "" np_thru_hole circle
 			(at 11.938 -6.985 180)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
-			(uuid "49704f4d-92d1-4853-8fee-4079ac4dd22a")
+			(uuid "2b7b4128-ae70-49b3-a329-1aae56a67780")
 		)
 		(pad "" np_thru_hole circle
 			(at 11.938 8.255 180)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c2a708b9-46a1-4c95-9bd2-a6779853b3e8")
+			(uuid "c44a0bae-ef09-4d7f-aef2-110a335fc7ab")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -2738,6 +2749,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k2.25u.step"
+			(offset
+				(xyz -303 -248.1 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "HE60:MX-1U"
 		(layer "F.Cu")
@@ -2746,7 +2768,7 @@
 		(property "Reference" "MX69"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
-			(uuid "3d73ba0e-0736-4f32-a18a-fc55d1c6fc44")
+			(uuid "01ccaacf-c8a2-4119-96a2-b7c5d23403f2")
 			(effects
 				(font
 					(size 1 1)
@@ -2757,7 +2779,7 @@
 		(property "Value" "1U"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "ca20bb28-446e-400f-88e3-4a759dd525d4")
+			(uuid "7d8f8acb-27da-4df7-887e-581bdb024ff8")
 			(effects
 				(font
 					(size 1 1)
@@ -2769,7 +2791,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dab50842-39e3-4076-94b9-cd5b5df5953d")
+			(uuid "1e6d619b-5474-40fb-8c46-e96137b72e58")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2781,7 +2803,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ae4d837-29c6-46b0-a5d8-0da9dd46531b")
+			(uuid "2f492626-c9d7-4165-ad8b-bdfbb92dfd30")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3174,7 +3196,7 @@
 		(property "Reference" "MX55"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
-			(uuid "59ea2c46-1c4c-452f-85cc-ad1bb15f462c")
+			(uuid "98cf5681-d3dc-46b4-8afc-5f9ec4f989c4")
 			(effects
 				(font
 					(size 1 1)
@@ -3185,7 +3207,7 @@
 		(property "Value" "1.75U"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "4e7ef06c-efc8-4250-9f5e-b9d5e022edd9")
+			(uuid "3cb67b4c-ae9d-45b5-b6b0-6310d253245a")
 			(effects
 				(font
 					(size 1 1)
@@ -3197,7 +3219,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "064e2ba7-15b5-4599-a234-9f6116747fbb")
+			(uuid "e4c1a9af-8a1c-49b4-8b4a-93b7e2c4d653")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3209,7 +3231,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f77400c9-6140-4282-892a-f99a6f9e556c")
+			(uuid "5780a1ca-263b-4c38-966d-830858397f55")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3230,7 +3252,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ce51d333-34a7-48e2-88b5-4795833d5abe")
+			(uuid "e1adfd75-04cc-4f47-8d50-471543379803")
 		)
 		(fp_line
 			(start -16.66875 9.525)
@@ -3240,7 +3262,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "228023cd-08a7-46d8-858e-c9ff5be877f3")
+			(uuid "50629412-70a4-4ce7-a67a-1f10f3966522")
 		)
 		(fp_line
 			(start -16.66875 9.525)
@@ -3250,7 +3272,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "169a5f35-ca9c-4405-9035-9930be29c0a4")
+			(uuid "cbc2cdbb-1ed8-43d0-a61e-54a880e5e7e5")
 		)
 		(fp_line
 			(start -7 -7)
@@ -3260,7 +3282,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2aaa60e7-c5f4-444c-b970-d0081c94b1fe")
+			(uuid "935e7719-2424-414c-b7a4-ae3c148222a7")
 		)
 		(fp_line
 			(start -7 5)
@@ -3270,7 +3292,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2b0f2560-5d84-4931-b77c-1e24d5bbeb1a")
+			(uuid "c0f2fb21-4063-42ba-b5b3-8e7117199bd4")
 		)
 		(fp_line
 			(start -7 7)
@@ -3280,7 +3302,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "67d77613-787b-4930-bca9-66fbcecc4d3c")
+			(uuid "633d642f-b150-48e0-ab04-f11548e7c93d")
 		)
 		(fp_line
 			(start -5 -7)
@@ -3290,7 +3312,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e4ef886c-17d4-45d9-8f4f-2e0489f424c6")
+			(uuid "3aa668bd-405b-4243-ba27-6e27fd8a7113")
 		)
 		(fp_line
 			(start 5 -7)
@@ -3300,7 +3322,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f7f260e7-c859-49f8-89a1-83f4ead4cd0e")
+			(uuid "8918684a-e63a-4bb7-969c-9261f291941b")
 		)
 		(fp_line
 			(start 5 7)
@@ -3310,7 +3332,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d5a73eb5-934c-400b-97f3-27ac5dceaca0")
+			(uuid "0e4afb69-febc-44bd-bf54-86b21d9d77e7")
 		)
 		(fp_line
 			(start 7 -7)
@@ -3320,7 +3342,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d6552938-6636-4189-bbab-9685d63a5086")
+			(uuid "fb7d97c2-7179-4003-a850-5e61cfbb51ee")
 		)
 		(fp_line
 			(start 7 7)
@@ -3330,7 +3352,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "95e4057a-10d0-4f40-900c-de7cd51c113a")
+			(uuid "05674f7c-ed42-4367-a425-eb9780a1677a")
 		)
 		(fp_line
 			(start 16.66875 -9.525)
@@ -3340,21 +3362,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "80e6e783-a522-4e36-ba31-6ded21190aa0")
+			(uuid "2d0e8be7-991c-41fd-b6e9-1337bd75ad2a")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f40baedf-e8c8-46f1-9b25-f1568275036f")
+			(uuid "56ea70bb-36b3-4302-a07e-b476aa7dc0c5")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "60b51cff-0d24-4973-9bf3-1323a3c0c84f")
+			(uuid "05571a1e-f8e9-400a-8735-a457714d62e5")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -3368,11 +3390,22 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.75.step"
+			(offset
+				(xyz -190.75 -248 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2ddb3dc4-0007-4d4b-8515-978472db0755")
-		(at 149.505 -31.075)
+		(at 10.33 39.65)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C117"
@@ -4315,7 +4348,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "3f18fcd3-d4ca-49cf-929b-927a8ab1a51f")
-		(at 148.705 -21.325)
+		(at 9.53 49.4)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C136"
@@ -4787,7 +4820,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "03abd84b-cb27-471d-9b14-94181f395458")
+			(uuid "5a5a2700-1078-4d42-9172-eea811726060")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -4797,7 +4830,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "fade4274-8abb-4f14-8fc3-84f2d317948e")
+			(uuid "8e011d9a-135d-4af4-aa83-24280ccd0008")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -4807,7 +4840,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3b86e450-808b-4cd1-b1af-06bae8d92213")
+			(uuid "543f9e8a-cce5-4f5c-97f8-910e828aa5c2")
 		)
 		(fp_line
 			(start -7 -7)
@@ -4817,7 +4850,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0f9c6a27-8236-4db3-beda-bc4d294df76d")
+			(uuid "e7201656-27a8-41c3-a704-4aaf3326e2f1")
 		)
 		(fp_line
 			(start -7 5)
@@ -4827,7 +4860,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5cf1d160-d991-4e6c-b55f-f432cf89bffc")
+			(uuid "3ea7ab7f-246b-4b13-aa8d-e7ab18322f58")
 		)
 		(fp_line
 			(start -7 7)
@@ -4837,7 +4870,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "79098764-3f7a-4701-bb52-736d970e9ad8")
+			(uuid "a3c4a32c-935c-452c-bd8c-f7ae5169b722")
 		)
 		(fp_line
 			(start -5 -7)
@@ -4847,7 +4880,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "394e0482-2a9f-4ce7-b1f5-cac31c0cc750")
+			(uuid "a80aa9de-6ffa-452f-839e-ec065f02a2b5")
 		)
 		(fp_line
 			(start 5 -7)
@@ -4857,7 +4890,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c3b4a1ce-ea58-4f5e-b7e8-49370388a8c9")
+			(uuid "8da610df-b808-486b-af5f-3a450147eb9f")
 		)
 		(fp_line
 			(start 5 7)
@@ -4867,7 +4900,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b5cd0a69-fe35-4b67-8105-857ae7312d6b")
+			(uuid "8be56f69-b2f8-4f64-a3fe-4487a6f80c8d")
 		)
 		(fp_line
 			(start 7 -7)
@@ -4877,7 +4910,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "61d4e126-e87b-4a28-b238-16f1c8860c5d")
+			(uuid "a2e50347-1c5c-4765-839f-6865b0a942a4")
 		)
 		(fp_line
 			(start 7 7)
@@ -4887,7 +4920,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "fa0a01d0-fa8f-41ec-b861-89352bf274ae")
+			(uuid "9f2a9c0c-b6f4-4751-951c-beca567ce3d0")
 		)
 		(fp_line
 			(start 14.2875 -9.525)
@@ -4897,21 +4930,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "56eb9eb8-bd4f-440e-99c7-7c81b7bfef3e")
+			(uuid "a3fb907f-cf9e-4354-b806-98ae5816e0ac")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7cc18a85-3ebf-491a-93d5-a42521c375be")
+			(uuid "a2ffe6b5-c181-4337-8061-1d32d821b636")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "55dba84e-5362-4f4f-a3f9-50869b3860b4")
+			(uuid "8f0a88fc-88ff-4914-a1be-42781c452254")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -4923,6 +4956,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.5.step"
+			(offset
+				(xyz -141.75 -248.13 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7069,7 +7113,7 @@
 		(property "Reference" "MX44"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
-			(uuid "366933e6-0036-43f3-b640-e444e6f8124c")
+			(uuid "b43c2ebb-212b-4f4c-83ee-ae39abbd0e83")
 			(effects
 				(font
 					(size 1 1)
@@ -7081,7 +7125,7 @@
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "c2a549f5-9169-44b2-afe4-c95ed6f9a566")
+			(uuid "efbe3938-76ca-4dab-93ac-fefb688d8a7e")
 			(effects
 				(font
 					(size 1 1)
@@ -7093,7 +7137,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a254de82-94cc-4717-b336-6fac440ec142")
+			(uuid "f8715eaf-3ee1-47ea-ba98-2d1dd2c267c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7105,7 +7149,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf0add88-54d3-486e-81b0-fc3b02518b53")
+			(uuid "feec153d-37f7-4537-ae6f-9e759058e184")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7126,7 +7170,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2f38f37a-cea1-4b55-bb45-f6de8e10f4c9")
+			(uuid "110acd71-1d8c-4d89-8687-0a7fa56d22f1")
 		)
 		(fp_line
 			(start 7 7)
@@ -7136,7 +7180,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8a7bcafe-0648-44cb-bed2-11717cb577fa")
+			(uuid "d09678bc-8b0c-4b0a-8154-efa373592f21")
 		)
 		(fp_line
 			(start 7 -7)
@@ -7146,7 +7190,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f39986b0-b2a0-4bab-b937-4d7e352d83b5")
+			(uuid "4fe7ff87-94be-4295-9f37-c340d75159fa")
 		)
 		(fp_line
 			(start 5 7)
@@ -7156,7 +7200,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "53985438-29c4-4adb-90e5-f89abd135c8a")
+			(uuid "a4e4526b-1c47-45f7-a887-c06636ea6310")
 		)
 		(fp_line
 			(start 5 -7)
@@ -7166,7 +7210,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "fa521d5a-764b-49c5-a85b-6c7b030c824a")
+			(uuid "e0316a03-438c-45d5-b374-a7e91876473a")
 		)
 		(fp_line
 			(start -5 -7)
@@ -7176,7 +7220,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "afbb1394-3bb3-4b00-a997-8cefb2c4f8de")
+			(uuid "2367b300-0124-42b4-aa16-e877c54ecf6c")
 		)
 		(fp_line
 			(start -7 7)
@@ -7186,7 +7230,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "43f49143-9177-4bf6-99bf-24f610f4f2f7")
+			(uuid "f8f5b761-3ef3-4418-8db9-914edb6c44ea")
 		)
 		(fp_line
 			(start -7 5)
@@ -7196,7 +7240,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6b76f0a4-3d8b-4285-9190-4f0f8968a7ad")
+			(uuid "f9ddad8a-f2ef-4756-97df-6c85244e0125")
 		)
 		(fp_line
 			(start -7 -7)
@@ -7206,7 +7250,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5f57815c-6307-4b2f-a11f-1dd131699e5b")
+			(uuid "51a13c0a-611a-4881-adc0-2d738b086e72")
 		)
 		(fp_line
 			(start -21.43125 9.525)
@@ -7216,7 +7260,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "4523f4e9-b919-44c5-967f-1058efa7e325")
+			(uuid "d6cad27e-b35f-46d1-a932-75739ad1a787")
 		)
 		(fp_line
 			(start -21.43125 9.525)
@@ -7226,7 +7270,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a82e81c0-6790-4bb8-8f16-339c8f1814b1")
+			(uuid "3f3a0f7f-2cc1-468b-a4b3-58e74e5a21bf")
 		)
 		(fp_line
 			(start -21.43125 -9.525)
@@ -7236,49 +7280,49 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "765082a5-1927-460c-b32c-dec36ac63e01")
+			(uuid "9a7fd1e2-6ce3-4566-8377-7f5dfb7ff879")
 		)
 		(pad "" np_thru_hole circle
 			(at -11.938 -6.985 180)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e6254cd3-3b06-49e8-ad82-3c2a0a555629")
+			(uuid "fe1fd02c-e423-4807-a6aa-7a907fdadc2d")
 		)
 		(pad "" np_thru_hole circle
 			(at -11.938 8.255 180)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "37771028-bda2-480a-8506-5a8a416a32a2")
+			(uuid "219a0f15-6e40-4669-9a17-8d7c92804e39")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 228.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7fbd7986-2896-4555-a7be-3870ad35fe32")
+			(uuid "ff06e56e-4854-43b7-9087-442fb0dd2e0d")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 228.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "0af84a82-4820-44de-8648-e9502d4b9356")
+			(uuid "e5fc5069-a85f-4c18-ba14-4d43914e9799")
 		)
 		(pad "" np_thru_hole circle
 			(at 11.938 -6.985 180)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
-			(uuid "2c71fdc7-17fd-41fe-b79a-0ca047acb547")
+			(uuid "e19a9fdb-7821-4958-9982-4e99cc9f4ec3")
 		)
 		(pad "" np_thru_hole circle
 			(at 11.938 8.255 180)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c07b9989-75b0-468f-a1c1-71ae9b478cab")
+			(uuid "b262cab7-a3ba-466c-8a40-1520a13b0de1")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -7290,6 +7334,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k2.25u.step"
+			(offset
+				(xyz -303 -248.1 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7782,7 +7837,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c87cb4bd-f7ff-43e9-bd77-6ecf92e832b4")
+			(uuid "f48e7799-bd32-49cc-8b70-80981575a8cb")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -7792,7 +7847,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f6326b9f-1818-428b-afbe-9b1d96a006d6")
+			(uuid "863fe15c-0bad-4024-9455-307e7dd01107")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -7802,7 +7857,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "42eb982b-9dec-435e-b171-e895461e48e5")
+			(uuid "a51fd90c-285a-44b8-8752-248bf6a8a701")
 		)
 		(fp_line
 			(start -7 -7)
@@ -7812,7 +7867,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ce7dc795-db8a-449e-bc45-104c2d9c9590")
+			(uuid "6ccd410f-3d16-4706-bda9-322e22790096")
 		)
 		(fp_line
 			(start -7 5)
@@ -7822,7 +7877,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "43ea99e2-79b9-4d07-80b0-d344e34052f9")
+			(uuid "4eb4fcde-193f-4440-8dfd-339f35d388bc")
 		)
 		(fp_line
 			(start -7 7)
@@ -7832,7 +7887,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "519c30f4-f4f7-4c97-af6b-646ef313f93c")
+			(uuid "8a0b8e17-d2ff-4c70-8402-6173130d8fe7")
 		)
 		(fp_line
 			(start -5 -7)
@@ -7842,7 +7897,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3def135c-c244-4f4c-873b-f257bf5f5da5")
+			(uuid "0686fc15-77de-4fbb-bc98-a75ccdf54d63")
 		)
 		(fp_line
 			(start 5 -7)
@@ -7852,7 +7907,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "492ae92b-fdce-436d-98c0-2b78ebef7505")
+			(uuid "19a8f4f0-06c2-40ae-8164-4e1e5033e7e1")
 		)
 		(fp_line
 			(start 5 7)
@@ -7862,7 +7917,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "62724dae-808d-4d06-93fb-2a92eec5d65d")
+			(uuid "642e133f-016d-4f53-b4ee-cf78f2a75e9a")
 		)
 		(fp_line
 			(start 7 -7)
@@ -7872,7 +7927,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "76da3aef-7cba-4274-b66f-9509ea0ce7e6")
+			(uuid "f4dcd341-5250-4a2b-8ee7-ef63f069dba5")
 		)
 		(fp_line
 			(start 7 7)
@@ -7882,7 +7937,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f68890db-d5e3-47fc-9444-a70aacdb9cfc")
+			(uuid "6086516d-fedc-4e10-9796-4a0c22fc2d31")
 		)
 		(fp_line
 			(start 14.2875 -9.525)
@@ -7892,21 +7947,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8d50dd1c-5f46-49fd-99b3-269606166779")
+			(uuid "67cda21a-5f00-4315-8d0c-235eba940047")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "325cbb33-b7c8-4e31-bd01-85c677844416")
+			(uuid "eac1ec54-63ef-4afa-b307-cf1212bd081b")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d08be955-2a8a-4ca5-b9b9-cd21be4b6295")
+			(uuid "a775f7cd-85a9-4000-a9be-7eebb9e30d69")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -7918,6 +7973,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.5.step"
+			(offset
+				(xyz -141.75 -248.13 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7984,7 +8050,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b485fe56-ed0e-42d1-b8bc-927c4ba84f90")
+			(uuid "bd3da1ed-49a6-47ed-847b-c83dc963bea6")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -7994,7 +8060,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "682036a4-9176-4ed1-9106-c58d96c9ebec")
+			(uuid "94cb5521-dd04-43c2-9e0e-e862f7d1fe15")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -8004,7 +8070,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e13b6846-4f2f-4a41-8236-0d28fbbb0ee7")
+			(uuid "d8648a87-c2e7-4304-8a06-e1633f085e78")
 		)
 		(fp_line
 			(start -7 -7)
@@ -8014,7 +8080,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ddb92d72-cd78-4e62-9954-c3c106576a14")
+			(uuid "f9ec3566-a00c-479f-b344-1683b5883db4")
 		)
 		(fp_line
 			(start -7 5)
@@ -8024,7 +8090,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "045c8785-effb-4713-8adc-19b645d7223b")
+			(uuid "cf2fd8a4-5fa3-4d20-89bc-9897745801a3")
 		)
 		(fp_line
 			(start -7 7)
@@ -8034,7 +8100,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c62b79f0-9fa0-4ff3-af3d-95f66159a317")
+			(uuid "e86af39d-1f5b-4e93-8016-8fd40364fdb0")
 		)
 		(fp_line
 			(start -5 -7)
@@ -8044,7 +8110,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3b1c7be1-e03d-4293-bde6-34735ff193e8")
+			(uuid "0766fd17-4f88-4e2b-8625-87c028609522")
 		)
 		(fp_line
 			(start 5 -7)
@@ -8054,7 +8120,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d94b99e2-564c-43a1-9afa-5fe255c8e174")
+			(uuid "8f4c0d56-7d3a-4208-a4fb-5a73f02a3470")
 		)
 		(fp_line
 			(start 5 7)
@@ -8064,7 +8130,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5cd3da99-1b60-4151-83a9-39eb536c1ef2")
+			(uuid "7d89e80c-e57f-45c4-93be-3a22d9301f47")
 		)
 		(fp_line
 			(start 7 -7)
@@ -8074,7 +8140,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "87875934-c67a-492e-a527-2d7818fc0530")
+			(uuid "d675e495-b320-46ca-a6eb-a15d5f86d7f9")
 		)
 		(fp_line
 			(start 7 7)
@@ -8084,7 +8150,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "34f28bc3-1339-4a1c-828e-3ccd1aaa118d")
+			(uuid "60815179-5fa1-4fe3-824c-bd6d7054e0c2")
 		)
 		(fp_line
 			(start 14.2875 -9.525)
@@ -8094,21 +8160,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d9684c21-6832-40c3-a40d-5eae92a38741")
+			(uuid "37742ec7-c784-4a88-a7ac-343ba3f2e829")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e1ba9bb7-90b5-481c-a5da-d27452f9b3cd")
+			(uuid "093ba740-47e8-484a-8d9f-711731e4fd8f")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "68632e08-aa44-4499-ac81-6e5c3b2d2f8f")
+			(uuid "f6733e86-1727-441a-969e-407f977c4ab2")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -8120,6 +8186,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.5.step"
+			(offset
+				(xyz -141.75 -248.13 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -8339,7 +8416,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "87925311-91d7-4c2a-afb9-04c2953148ea")
-		(at 148.705 -23.295)
+		(at 9.53 47.43)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C135"
@@ -8598,7 +8675,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a29fea21-6bf5-4226-b2a5-9e5795ab7829")
+			(uuid "ae8a7b98-cca3-416b-8fa2-2055a52e2b95")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -8608,7 +8685,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d10a9e99-f975-48e1-9022-18173530e77a")
+			(uuid "f3bb803b-4f37-4c41-93be-0c6a8afd388f")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -8618,7 +8695,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "20404dc0-44dd-4166-a5bf-4a5215b4f19a")
+			(uuid "1de90096-26b5-496f-9b18-b3933677d01e")
 		)
 		(fp_line
 			(start -7 -7)
@@ -8628,7 +8705,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "de66edbb-bfe5-4c71-aed2-de728da4db71")
+			(uuid "90066f8b-60d1-4f96-985d-94f883a98860")
 		)
 		(fp_line
 			(start -7 5)
@@ -8638,7 +8715,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dcaada19-fcb9-4de1-babb-addbd8533936")
+			(uuid "0579d098-9d97-4d32-9f81-0bf7f13b2681")
 		)
 		(fp_line
 			(start -7 7)
@@ -8648,7 +8725,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e5af7c82-71e9-43a0-92cc-6011997bd3ed")
+			(uuid "160edbe2-cba7-439c-9412-8fee7e06c14d")
 		)
 		(fp_line
 			(start -5 -7)
@@ -8658,7 +8735,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cc441db8-8406-420e-b49e-2106ba842c4a")
+			(uuid "b1640567-91ed-4506-b5b0-4016b706a197")
 		)
 		(fp_line
 			(start 5 -7)
@@ -8668,7 +8745,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5b8c536b-ea05-4b7d-8882-888b7bb8694b")
+			(uuid "903ff672-4cbb-4122-bf36-50570c2e7654")
 		)
 		(fp_line
 			(start 5 7)
@@ -8678,7 +8755,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b2349ab7-b69a-4862-94fe-0e309795feb5")
+			(uuid "580f61b4-92de-433e-9230-d261b2fac1a9")
 		)
 		(fp_line
 			(start 7 -7)
@@ -8688,7 +8765,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a59dd16f-cb57-421b-b487-1d9d33726f02")
+			(uuid "c2b2f388-6527-4392-bf88-eedfa08744e0")
 		)
 		(fp_line
 			(start 7 7)
@@ -8698,7 +8775,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "467dc89f-2988-4342-b267-e610c95e7b5b")
+			(uuid "f4ce3fa8-ea84-4371-be15-5161999da2b8")
 		)
 		(fp_line
 			(start 14.2875 -9.525)
@@ -8708,21 +8785,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "9c4703de-5277-4d1b-bc42-a016fb5be390")
+			(uuid "97de4617-900a-4034-8323-1581e61ad244")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "0d517406-ab7d-4319-8c43-29c2a91f4ce2")
+			(uuid "197a9cb6-cfe0-4a55-ab02-f6e3ad5379f9")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "719524d2-fe4a-454b-85fc-f2e75511156a")
+			(uuid "940cc2ab-e73d-4b76-b781-15a7881007a3")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -8734,6 +8811,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.5.step"
+			(offset
+				(xyz -141.75 -248.13 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -10534,7 +10622,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "9a9a6faa-ad88-4844-8afb-f7c195f785d4")
-		(at 84.3475 -41.505)
+		(at 2.625 25.325)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J2"
@@ -11880,7 +11968,7 @@
 		(property "Reference" "MX31"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
-			(uuid "ad329b33-2cf8-408e-b7f3-113e1cac2dd8")
+			(uuid "bf43fac9-684c-4264-a945-121dd5fe5825")
 			(effects
 				(font
 					(size 1 1)
@@ -11891,7 +11979,7 @@
 		(property "Value" "1.75U"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "a7da17ec-f675-4bec-a63e-e4a4d7d3e542")
+			(uuid "4950f2fa-af90-4aa7-ba46-25154965b6bb")
 			(effects
 				(font
 					(size 1 1)
@@ -11903,7 +11991,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4f757f5-b744-4150-a108-b01692ed3ba8")
+			(uuid "c46ea020-cd75-40f3-ba72-7e88fe130f16")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11915,7 +12003,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9cbef30-617a-408c-8b3f-6b161a0e18ee")
+			(uuid "6d011b1d-4c6c-4c9e-bc17-5e31ca22b72c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11936,7 +12024,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ced2d602-f3da-4926-9761-85a26aa0d7a1")
+			(uuid "8c1606f1-89a9-4c1d-a276-77bd78327d17")
 		)
 		(fp_line
 			(start -16.66875 9.525)
@@ -11946,7 +12034,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e4b10e73-d1aa-4765-9271-462b03a4ea29")
+			(uuid "12e3ccda-bd61-414a-855d-75ad863d692a")
 		)
 		(fp_line
 			(start -16.66875 9.525)
@@ -11956,7 +12044,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "68f73510-f279-4cab-b39a-e4040daf587d")
+			(uuid "22c00dfc-1f31-4ccf-9570-c21b1c5a6df5")
 		)
 		(fp_line
 			(start -7 -7)
@@ -11966,7 +12054,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7552c94e-7e8f-4a9a-8820-443267be5534")
+			(uuid "b71deecc-bb6d-4c06-be1a-91bce943449e")
 		)
 		(fp_line
 			(start -7 5)
@@ -11976,7 +12064,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "410150a3-7fb0-40b3-813b-0355cefaf34f")
+			(uuid "fa2ede91-8b92-4006-a243-138691b3eaa9")
 		)
 		(fp_line
 			(start -7 7)
@@ -11986,7 +12074,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f1943fb6-e0e1-416b-a41a-fec0ec1daed5")
+			(uuid "ba04c77e-383e-44d7-b0bc-001b32e7f6cd")
 		)
 		(fp_line
 			(start -5 -7)
@@ -11996,7 +12084,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "32d6898b-11de-4695-8270-daa5f2d8dd26")
+			(uuid "3f62bff3-e6f2-43d2-804c-d68da4946bc2")
 		)
 		(fp_line
 			(start 5 -7)
@@ -12006,7 +12094,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2640c312-439a-4415-bd64-8cbfa23ddf5a")
+			(uuid "2b104ae9-c85b-4697-a7d3-cb598311302e")
 		)
 		(fp_line
 			(start 5 7)
@@ -12016,7 +12104,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0641f3c8-59d0-4e90-bff8-4d6fa9e1f4b0")
+			(uuid "be80e5cf-5f21-4912-b70f-25304612ebb4")
 		)
 		(fp_line
 			(start 7 -7)
@@ -12026,7 +12114,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "78bea335-08c6-4a83-a7d0-6fb6936f23b9")
+			(uuid "c371c6e3-4794-4ea0-b681-eccaa3be5db6")
 		)
 		(fp_line
 			(start 7 7)
@@ -12036,7 +12124,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d573ce66-66a9-4e26-ab94-634dddca5eeb")
+			(uuid "d8a5b51c-f9df-46ae-9d90-c8457c803782")
 		)
 		(fp_line
 			(start 16.66875 -9.525)
@@ -12046,21 +12134,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "08814aac-3ddd-4a2d-ae06-4e484853aa55")
+			(uuid "ddd24c7f-9de9-42ff-b5c3-3b46bffd94b1")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "a37c30cc-c1a5-4dec-a092-3063769bce85")
+			(uuid "db9f9e9c-46da-4bad-b39c-8373ae6e0f10")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7aad1cae-c4dc-465a-b6f5-e8caa57ea1bc")
+			(uuid "e9a1319b-adec-4361-9b15-3d5f2e5866a6")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -12072,6 +12160,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.75.step"
+			(offset
+				(xyz -190.75 -248 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -12504,7 +12603,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "aebfa406-888b-4238-b026-f1229ae64ec3")
-		(at 163.2 -32.1875)
+		(at 24.025 38.5375)
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "HE68"
@@ -13313,7 +13412,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "213a77cd-f868-407a-9861-aed1b67a119a")
+			(uuid "191caff0-1aee-462f-a8ee-2359bc33c3c3")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -13323,7 +13422,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "861a0a59-7edf-4523-9413-78682982df01")
+			(uuid "c84bd612-fc55-4881-b565-ccce5271366e")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -13333,7 +13432,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ca399906-6520-4be8-bde7-852a97fbc406")
+			(uuid "cce2cc1f-d02a-4be9-9afe-ccaac731455b")
 		)
 		(fp_line
 			(start -7 -7)
@@ -13343,7 +13442,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "93b095d5-a012-492c-88cc-e00a5da256dc")
+			(uuid "84afad1b-338e-46f6-860a-0870a23c819f")
 		)
 		(fp_line
 			(start -7 5)
@@ -13353,7 +13452,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0102f47c-a144-41f7-87d1-fca20a7ab490")
+			(uuid "bd4e5800-208f-41bc-8938-9aef4d26cb35")
 		)
 		(fp_line
 			(start -7 7)
@@ -13363,7 +13462,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "73fec6d1-0299-4043-a724-6aa3ec0caf27")
+			(uuid "c4a41d0c-ab68-407f-b73f-46847f45d385")
 		)
 		(fp_line
 			(start -5 -7)
@@ -13373,7 +13472,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5fa8e05e-0a6a-420e-b4de-e44857367b30")
+			(uuid "030deaf2-a968-4b45-b558-e01b3f104af6")
 		)
 		(fp_line
 			(start 5 -7)
@@ -13383,7 +13482,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "60077f08-17b3-4be3-a50e-a5abaea9ab47")
+			(uuid "24101555-af8f-4eab-a525-d91c19ea27cb")
 		)
 		(fp_line
 			(start 5 7)
@@ -13393,7 +13492,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b1832b60-c5be-4c65-8b16-2f3a5e981566")
+			(uuid "74545566-916a-4791-af3f-00ca8e080552")
 		)
 		(fp_line
 			(start 7 -7)
@@ -13403,7 +13502,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0dce51a3-ea89-4be2-bfe6-58f6943f271e")
+			(uuid "280dbe76-34c5-4457-95fa-4da58c597985")
 		)
 		(fp_line
 			(start 7 7)
@@ -13413,7 +13512,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1b68a72e-44a4-4b6d-8f78-84e335653eec")
+			(uuid "ac07351e-e524-4f26-82d6-d8b67f2f0e67")
 		)
 		(fp_line
 			(start 14.2875 -9.525)
@@ -13423,21 +13522,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b4f70ea2-be15-429e-9a30-c8cff1b06ce1")
+			(uuid "aea2b41a-5505-46f3-83d6-8439610555c1")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "44c9f1fa-d67f-4a13-b7de-1db171400f22")
+			(uuid "ec830b9c-305f-4837-85b8-e254f9021b41")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "63c62fec-e3a2-4850-98f8-4b7573b6249b")
+			(uuid "70ee9d0b-bf97-4670-b1d8-b39478baea21")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -13451,6 +13550,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.5.step"
+			(offset
+				(xyz -141.75 -248.13 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "HE60:MX-1.25U"
 		(layer "F.Cu")
@@ -13459,7 +13569,7 @@
 		(property "Reference" "MX70"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
-			(uuid "51d36cab-7c6d-4540-be4f-9428c62c0f03")
+			(uuid "c3927b8d-e708-4b0c-8a50-6edb7e65919e")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -13470,7 +13580,7 @@
 		(property "Value" "1.25U"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "83589d92-784f-431e-bdd4-4d24377500e6")
+			(uuid "35a74943-d24f-4106-9ecf-f2ee2b5fe27d")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -13482,7 +13592,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa53aa86-3611-4066-8886-e1561886a0f6")
+			(uuid "cb2e9d06-4c03-44d0-9afa-f38865dec8fa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13494,7 +13604,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5cd899f5-f893-4876-acc0-5dd92a979d70")
+			(uuid "b406ef57-edd5-438d-9a2c-d2068543c17f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13643,6 +13753,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
+			(hide yes)
 			(offset
 				(xyz -7.35 -7.35 5.95)
 			)
@@ -16018,7 +16129,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "dc61c06f-bca2-41da-97f7-3b3bc7b55ddb")
-		(at 146.925 -38.4625)
+		(at 7.75 32.2625)
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "HE59"
@@ -16827,7 +16938,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "4903cca7-53d0-42d9-bbe2-81e949a40aaa")
+			(uuid "a31987fd-44c0-4936-9619-39adf2e74085")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -16837,7 +16948,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dc3e09c4-a3f3-4259-9c74-a31ce4ca5239")
+			(uuid "7279ce7d-1ae4-43c1-aadb-f96a426b6d9e")
 		)
 		(fp_line
 			(start -14.2875 9.525)
@@ -16847,7 +16958,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "9fa54b3a-99cd-43aa-a65c-3af2d4c2db75")
+			(uuid "dabc3895-43b1-4aa2-ac28-8de2db9aa040")
 		)
 		(fp_line
 			(start -7 -7)
@@ -16857,7 +16968,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "151b5f6f-0484-47b3-aa79-fc34b141767e")
+			(uuid "260cd8d2-cae6-424a-b4df-125cd065dc42")
 		)
 		(fp_line
 			(start -7 5)
@@ -16867,7 +16978,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0b716634-ac7d-4623-b084-aaf723c1d200")
+			(uuid "33a45b57-957f-4d25-a7c7-ff67ac04005c")
 		)
 		(fp_line
 			(start -7 7)
@@ -16877,7 +16988,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ecbc8265-1b6b-4866-99db-15880d002c03")
+			(uuid "c25eb62d-5c61-469b-9341-469241750e9c")
 		)
 		(fp_line
 			(start -5 -7)
@@ -16887,7 +16998,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "732777bf-700f-4f50-9567-cbc2848b5f0d")
+			(uuid "57665a61-a308-4b21-ba0d-866c5984f1d7")
 		)
 		(fp_line
 			(start 5 -7)
@@ -16897,7 +17008,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "bd67034b-2cd8-4b76-95bb-6bcf7c1b5863")
+			(uuid "bb2507e2-edb7-49b4-9584-da3b93eb7201")
 		)
 		(fp_line
 			(start 5 7)
@@ -16907,7 +17018,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "47da2615-cde2-4792-8cfc-d09ac8ae353c")
+			(uuid "ec374a8b-47f1-4759-981b-18cca72e55a4")
 		)
 		(fp_line
 			(start 7 -7)
@@ -16917,7 +17028,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cab60fe3-c725-407f-a2e8-45c38a56290a")
+			(uuid "d2eb4723-e7e2-4146-8903-74b6b8f0ab0c")
 		)
 		(fp_line
 			(start 7 7)
@@ -16927,7 +17038,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b9280ea7-f96a-43b2-9d16-4657d9853682")
+			(uuid "057cb341-62e8-47ed-9e2c-72d841ac5411")
 		)
 		(fp_line
 			(start 14.2875 -9.525)
@@ -16937,21 +17048,21 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a221b010-c80e-488b-bd60-baf6cb098a07")
+			(uuid "87fd8ce1-319f-4ca7-ad4d-d11ec8dae7f3")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "973d8220-ae69-489f-affe-8292a191a17e")
+			(uuid "0a40314c-fa1d-4b23-b692-6d3014630029")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 48.0996)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "6f3bbeb4-1ebf-41de-9f9a-a1152a15e2ac")
+			(uuid "dc295e50-7cc7-446e-8fea-34179d1ac2df")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d_mondels/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
@@ -16965,11 +17076,22 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k1.5.step"
+			(offset
+				(xyz -141.75 -248.13 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ecbadacf-4a59-409c-9f4c-74c357e270a1")
-		(at 148.705 -25.265)
+		(at 9.53 45.46)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C118"
@@ -17168,13 +17290,13 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ed03b0fc-2400-41a8-8392-8dab660d3660")
-		(at 74.1 -21.975)
+		(at 2.805 41.5)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C161"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "7b1783c6-1938-49d3-b9ce-4c2678b5dd6a")
+			(uuid "af88d164-97a6-4d01-8cf4-90ff154e6387")
 			(effects
 				(font
 					(size 1 1)
@@ -17185,7 +17307,7 @@
 		(property "Value" "100n"
 			(at 0 1.16 0)
 			(layer "F.Fab")
-			(uuid "29f5d36e-d2ea-42c4-8f5f-eba6d784b31e")
+			(uuid "6c068f62-fb68-4e1f-92e9-beb3ec5dfea6")
 			(effects
 				(font
 					(size 1 1)
@@ -17197,7 +17319,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f8da80b-0657-46ac-a0ab-298fbf316a3d")
+			(uuid "2da25f65-6ef3-4c38-9ad2-354c9d0dcf78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17209,7 +17331,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a317397e-8d3b-4893-b69c-b65921c348cc")
+			(uuid "b494b215-d856-4056-88cb-445b2447586a")
 			(effects
 				(font
 					(size 1.27 1.27)

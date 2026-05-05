@@ -224,4 +224,16 @@
 			(xyz -90 -0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/3d_mondels/keycaps-shoppster/k7u.step"
+		(opacity 0.6100)
+		(offset
+			(xyz -455.7 -52.35 11.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
